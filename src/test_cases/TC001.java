@@ -12,6 +12,10 @@ public class TC001 {
 
         // positive testing
 
+        // not going into smoke test
+
+        // more useful information
+
     }
 
 
